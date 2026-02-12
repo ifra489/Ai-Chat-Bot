@@ -69,7 +69,7 @@ Open index.html in your browser
 
 ![AI Chat App Screenshot](S1.png)
 ![AI Chat App Screenshot](screenshot12.png)
-![AI Chat App Screenshot](111.png)
+
 
 # API Endpoint Used
 
